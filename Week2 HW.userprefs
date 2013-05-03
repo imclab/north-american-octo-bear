@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CubeMove.cs">
+    <Files>
+      <File FileName="Assets\Scripts\CubeMove.cs" Line="45" Column="36" />
+      <File FileName="Assets\Scripts\BallArc.cs" Line="11" Column="17" />
+      <File FileName="Assets\Scripts\GolfSwing.cs" Line="22" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
